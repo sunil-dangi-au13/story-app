@@ -12,7 +12,13 @@ p {
 }
 tbody td{
   color:black;
+  font-weight:500;
 }
+
+tbody td a{
+  color:#e74c3c;
+}
+
 .login-container {
   width: 400px;
   margin-top: 50px;
