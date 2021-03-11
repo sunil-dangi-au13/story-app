@@ -10,6 +10,9 @@ p {
 .dashboard{
   color:white;
 }
+tbody{
+  background-color-white;
+}
 tbody td{
   color:black;
   font-weight:500;
@@ -17,6 +20,7 @@ tbody td{
 
 tbody td a{
   color:#e74c3c;
+  text-transform: capitalize;
 }
 
 .login-container {
