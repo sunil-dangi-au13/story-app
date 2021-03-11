@@ -19,7 +19,8 @@ tbody td{
 }
 
 tbody td a{
-  color:#e74c3c;
+  color:green;
+  font-weight:600;
   text-transform: capitalize;
 }
 
