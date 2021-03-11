@@ -7,7 +7,12 @@ body{
 p {
   margin: 10px 0 !important;
 }
-
+.dashboard{
+  color:white;
+}
+tbody td{
+  color:black;
+}
 .login-container {
   width: 400px;
   margin-top: 50px;
